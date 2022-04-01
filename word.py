@@ -17,6 +17,7 @@ tamanho_anterior = 0
 global salvar_dados
 salvar_dados = False
 
+
 # OBS.: para ver os dados no arquivo temporário,
 # tem que aguardar um pouco para ver o SO descarregar.
 
